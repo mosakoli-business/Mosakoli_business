@@ -1,0 +1,27 @@
+body { 
+    background-color: #f8f9fa;
+ }
+ .nav-item{
+    margin: 10px;
+ }
+ .nav-item:hover{
+    background-color: black;
+    color: black;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 30px white;
+    font-weight: bold;
+    transition: 0.7s;
+}
+.navbar {
+    background-color: darkblue;
+}
+footer{
+    background-color: darkblue;
+}
+img{
+    border-radius: 10px;
+}
+.card{
+    box-shadow: 5px 5px 30px darkblue;
+}
