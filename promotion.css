@@ -18,4 +18,8 @@ footer{
 }
 .col{
     width: 100px;
+
+}
+.container img{
+    border-radius:10px;
 }
