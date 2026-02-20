@@ -42,5 +42,15 @@ footer{
 .container img{
     border-radius:10px;
 }
+.card:hover{
+    color: #f8f9fa;
+    background-color: black;
+    box-shadow: 5px 5px 5px 30px black;
+    transform: scale(1.1);
+    transition: 0.7s;
+    cursor: pointer;
+}
+
+
 
 
